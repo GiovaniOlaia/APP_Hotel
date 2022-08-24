@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APP_Hotel.App">
+    <Application.Resources>
+
+        <Style TargetType="Button">
+            <Setter Property="Background Color" Value="DarkRed" />
+            <Setter Property="Text Color" Value="White" />
+            <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+        </Style>
+        
+    </Application.Resources>
+</Application>
